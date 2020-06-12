@@ -4,25 +4,6 @@
 <h4 align="center">
   Projeto desenvolvido dentro da semana Next Level Week da Rocketseat 🚀  <br/> Ministrada pelo Diego
 </h4>
-<p align="center">
-  <img alt="typescript" src="https://img.shields.io/badge/%E2%9D%A4-typescript-brightgreen">
-
-  <img alt="server" src="https://img.shields.io/badge/server-nodejs-brightgreen">
-  
-  <img alt="mobile" src="https://img.shields.io/badge/mobile-react--native-blueviolet">
-  
-  <img alt="web" src="https://img.shields.io/badge/web-react-blue">
-
-  <a href="https://github.com/railopz/nlw-01/issues">
-    <img alt="Repository issues" src="https://github.com/railopz/nlw-01/issues">
-  </a>
-  
-  <a href="https://github.com/railopz/nlw-01/commits/masterr">
-    <img alt="GitHub last commit" src="https://github.com/railopz/nlw-01/commits/master">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-critical">
-</p>
 
 ### 💻 O Projeto
 <hr/>
